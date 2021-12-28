@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: https://github.com/thuanpham2311/garden/#garden-note
+redirect_url: https://github.com/thuanpham2311/garden/#the-garden-of-note
 ---
