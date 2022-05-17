@@ -1,1 +1,1 @@
-<https://github.com/thuanpham2311/garden>
+<https://thuanpham2311.github.io/l/note>
